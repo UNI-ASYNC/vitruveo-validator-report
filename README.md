@@ -2,8 +2,7 @@
 
 **Research date:** 24 November 2026
 
-**Scope:** Public Vitruveo, Vertical Foundation, Pretrend and TechBubble source
-code and documentation. This is a snapshot of published material, not
+**Scope:** Public Vitruveo, Vertical Foundation and Pretrend source code and documentation. This is a snapshot of published material, not
 independent confirmation of the live network or its deployed contracts.
 
 ## Executive summary
@@ -238,22 +237,7 @@ be assumed to describe every current Pretrend settlement.
 [Sources: Pretrend](https://github.com/Vitruveo/pretrend-app/blob/95a0a694200bb6a35804d9cbaf5362dd915badd0/app/protocol/page.tsx),
 [Foundation](https://www.verticalfoundation.net/).
 
-## 5. TechBubble repository findings
-
-The publicly accessible TechBubble repositories examined did not add further
-details about validator tiers, HOST duties or notary operations. TechBubble's
-former `pretrend-website` repository redirects to Vitruveo's Pretrend app,
-already included above. The
-[Hashdle documentation](https://github.com/techbubble/hashdle/blob/main/README.md)
-independently identifies Vitruveo as its blockchain and confirms chain ID
-1490, but adds no node-duty information.
-
-An older [chain metadata file](https://github.com/techbubble/chains/blob/master/_data/chains/eip155-1490.json)
-also confirms the chain ID but uses `.xyz` endpoints rather than the `.ai`
-endpoints in the newer Vitruveo documentation. Public repository access does
-not establish what may exist in inaccessible repositories.
-
-## 6. Questions requiring confirmation
+## 5. Questions requiring confirmation
 
 Before relying on this report for a purchase or operating commitment, confirm:
 
