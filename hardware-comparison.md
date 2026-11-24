@@ -133,17 +133,17 @@ This configuration is below the repository’s own recommended 16 GB RAM and 1 T
 ## Hardware Comparison Charts
 
 ### RAM Comparison
-![RAM Comparison](images/ram_comparison.png)
+![RAM Comparison](ram_comparison.png)
 
 *GB of RAM. Published recommendations vs. experiments.*
 
 ### CPU Comparison
-![CPU Comparison](images/cpu_comparison.png)
+![CPU Comparison](cpu_comparison.png)
 
 Four shared vCPUs do not guarantee four continuously available physical cores.
 
 ### Storage Comparison
-![Storage Comparison](images/storage_comparison.png)
+![Storage Comparison](storage_comparison.png)
 
 XRPL’s 50 GB figure is only a minimum database partition, not a full historical archive. The 1 TB recommendations are allocations, not guarantees that an archive will fit.
 
