@@ -32,6 +32,12 @@ A separate infrastructure comparison covers node roles, color coding, published 
 
 The comparison distinguishes published recommendations from local experiments and provisional planning targets.
 
+## Production readiness and open verification questions
+
+A companion inventory identifies areas where the public sources reviewed did not establish a complete answer, or where further testing is needed. **Unverified items are not claims that Vitruveo lacks those capabilities or practices.**
+
+**[Read the production-readiness and unknowns inventory](production-readiness-and-unknowns.md)**
+
 ## 1. The Vitruveo chain
 
 Vitruveo describes itself as an EVM-compatible layer-one blockchain:
