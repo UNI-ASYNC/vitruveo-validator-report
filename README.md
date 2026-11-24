@@ -24,6 +24,14 @@ fees.** Pretrend's documentation describes its oracle and notary services as
 operated by Pretrend; it does not establish that Hyper-node operators already
 run them.
 
+## Hardware comparison: XRPL, XRPL EVM and Vitruveo
+
+A separate infrastructure comparison covers node roles, color coding, published hardware guidance, CPU/RAM/storage charts, archive-versus-validator distinctions, and proposed Vitruveo planning targets.
+
+**[Read the full hardware comparison](hardware-comparison.md)**
+
+The comparison distinguishes published recommendations from local experiments and provisional planning targets.
+
 ## 1. The Vitruveo chain
 
 Vitruveo describes itself as an EVM-compatible layer-one blockchain:
